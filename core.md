@@ -8,12 +8,15 @@ This is simple definishion
 
 
 
-|student name|student id|student mark|
-|-|-|-|
-|Dhakshana moorthy|102|1200|
-|kumarasan|103|1300|
-|ravi|104|1400|
-|manoj|105|1500|
+student name	student id	student mark
 
+Dhakshana moorthy	102	1200
 
+kumarasan	103	1300
+
+ravi	104	1400
+
+manoj	105	1500
+
+16:33 22-03-2026
 
